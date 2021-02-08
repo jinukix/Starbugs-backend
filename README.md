@@ -15,12 +15,6 @@
 - AWS EC2, RDS
 - Docker
 
-## Progress ⛓
-- <a href="https://trello.com/b/IIL6vdmM/%F0%9D%92%9C%F0%9D%91%94%F0%9D%91%92%F0%9D%91%9C%F0%9D%93%88%F0%9D%93%89%F0%9D%91%92"> TEAM Trello </a> <br>
-trello 를 이용하여 서로간의 진행 상황을 공유할 수 있도록 하였습니다. trello 는 front / back / 공통 의 부분으로 나누어져 구분되어 있으며, 진행중인 사항에도 내부에 check list 를 달아 보다 더 상세한 진행 사항을 표시해 두었습니다.
-- <a href="https://www.notion.so/team-AGEOSTE-Json-b6664ee5935746b3a61e8a4a6e68c592"> API document notion </a> <br>
-front / back 간의 의사 소통을 수월히 하기 위하여 Json API document 를 만들어 공유하였습니다. 
-
 ## Modeling 📑
 <img src="https://media.vlpt.us/images/sue517/post/8ac3296a-f516-48cf-9203-2cf9c2b4d77b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-12%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.24.11.png">
 
