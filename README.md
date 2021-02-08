@@ -15,22 +15,19 @@
 - AWS EC2, RDS
 - Docker
 
-
 ## Modeling 📑
 <img src="https://media.vlpt.us/images/jinukix/post/d7a20ef1-a74c-4bb3-8559-2affe312a1b1/스크린샷%202021-02-08%20오후%208.06.06.png">
 
 ## Functions 🔍
-- 회원가입 (using validators)
-- bcrypt 를 이용한 비밀번호 암호화
 - JWT 를 이용하여 access token 발행
-- 로그인 (using validators) // decorator 생성
-- 마이페이지 read & update
-- smtp 를 이용한 이메일 인증 구현
 - kakao 소셜 로그인 기능 구현
 - 상품 리스트, 상세 페이지 뷰
-- DB 업로드 작성 
+- seed를 이용한 DB 업로드 작성 
 - 장바구니 기능
 - AWS S3 이미지 관리
+- AWS RDS 데이터베이스
+- AWS ECW
+- Docker 배포
 
 
 ## Reference 
