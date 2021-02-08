@@ -15,8 +15,9 @@
 - AWS EC2, RDS
 - Docker
 
+
 ## Modeling 📑
-<img src="https://media.vlpt.us/images/sue517/post/8ac3296a-f516-48cf-9203-2cf9c2b4d77b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-12%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.24.11.png">
+<img src="https://media.vlpt.us/images/jinukix/post/d7a20ef1-a74c-4bb3-8559-2affe312a1b1/스크린샷%202021-02-08%20오후%208.06.06.png">
 
 ## Functions 🔍
 - 회원가입 (using validators)
