@@ -6,4 +6,11 @@
 ### Front <a href="https://github.com/wecode-bootcamp-korea/AGEOSTE-frontend"> git repo </a> <br>
 김병진 // 황인태 // 정선미
 ### Back 
-장진욱 <a href="https://github.com/jinukix"> git repo </a> // 이성용
+장진욱 // 이성용
+
+## Back Technologies 🛠
+- Python
+- Django
+- MySQL
+- AWS EC2, RDS
+- Docker
