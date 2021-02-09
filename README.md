@@ -31,7 +31,7 @@
 - 장바구니 기능
 - AWS S3 이미지 관리
 - AWS RDS 데이터베이스
-- AWS ECW
+- AWS EC2
 - Docker 배포
 
 
