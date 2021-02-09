@@ -9,6 +9,10 @@
 장진욱 <a href="https://github.com/jinukix"> git repo </a> <a href="https://velog.io/@jinukix/2차-프로젝트-후기">review</a> <br>
 이성용
 
+## Preview 
+[![team starbugs](https://jinukix-bucket.s3.ap-northeast-2.amazonaws.com/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7+2021-02-09+%EC%98%A4%ED%9B%84+12.23.45.png)]('https://youtu.be/ifrAm2Tn6PE')
+##### 이미지를 클릭하면 영상으로 이동됩니다.
+
 ## Back Technologies 🛠
 - Python
 - Django
