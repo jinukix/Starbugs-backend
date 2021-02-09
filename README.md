@@ -6,7 +6,8 @@
 ### Front <a href="https://github.com/wecode-bootcamp-korea/16-2nd-starbugs-frontend"> git repo </a> <br>
 김병진 // 황인태 // 정선미
 ### Back 
-장진욱 // 이성용
+장진욱 <a href="https://github.com/jinukix"> git repo </a> <a href="https://velog.io/@jinukix/2차-프로젝트-후기">review</a> <br>
+이성용
 
 ## Back Technologies 🛠
 - Python
